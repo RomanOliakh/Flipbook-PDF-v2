@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL =  "compressed.tracemonkey-pldi-09.pdf";
+var DEFAULT_URL =  "https://uploads-ssl.webflow.com/62907573edcd0672253e9cb1/629082bedcf8bf8881645ff8_Spring%202020%20Issue_compressed.pdf";
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
